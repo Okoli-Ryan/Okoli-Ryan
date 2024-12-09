@@ -2,7 +2,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="okoli-ryan" />
 </p>
 <h1 align="center">Hi 👋, I'm Ugo Okoli</h1>
-<h3 align="center">Software engineer with 5 years of experience creating web and mobile applications. Proficient in TypeScript, React, React Native, Next.js, and ASP.NET, with a strong focus on delivering efficient, user-friendly solutions. A proven problem-solver with a detail-oriented approach, dedicated to continuous learning and adopting innovative technologies. Experienced in developing projects across diverse sectors, including fintech, e-commerce, crypto, and HR services</h3>
+<h3>Software engineer with 5 years of experience creating web and mobile applications. Proficient in TypeScript, React, React Native, Next.js, and ASP.NET, with a strong focus on delivering efficient, user-friendly solutions. A proven problem-solver with a detail-oriented approach, dedicated to continuous learning and adopting innovative technologies. Experienced in developing projects across diverse sectors, including fintech, e-commerce, crypto, and HR services</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okoli-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="okoli-ryan" /> </p>
